@@ -10,7 +10,7 @@ An interactive web application built with Streamlit to visualize and analyze rea
 * **Live Data**: Fetches up-to-date market data directly from the CoinGecko API.  
 * **Optimized Performance**: Leverages Streamlit's caching to ensure a fast and responsive experience.
 
-## **TechnStack**
+## **TechStack**
 
 * **Python**: The core programming language.  
 * **Streamlit**: For building the interactive web application.  
