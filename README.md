@@ -28,17 +28,17 @@ Follow these steps to get the dashboard running on your local machine.
 
 ### **Installation & Setup**
 
-1. **Create a Project Folder**: Make a new folder for this project and save the Python script inside it as dsp\_app.py.  
+1. **Create a Project Folder**: Make a new folder for this project and save the Python script inside it as `crypto_app.py`.  
 2. **Open Your Terminal**: Launch your terminal or command prompt.  
 3. **Navigate to Your Project Folder**: Use the cd command to move into the folder you just created.  
-   cd path/to/your/project\_folder
+   `cd path/to/your/project_folder`
 
 4. **Install Required Libraries**: Run the following command to install all the necessary packages.  
-   pip install streamlit pandas plotly requests
+   `pip install streamlit pandas plotly requests`
 
 ### **Running the Application**
 
 1. **Execute the Run Command**: While inside your project folder in the terminal, run the following command:  
-   streamlit run dsp\_app.py
+   `streamlit run crypto_app.py`
 
-2. **View the Dashboard**: A new tab will automatically open in your web browser with the app. If not, navigate to the local URL shown in your terminal (usually http://localhost:8501).
+2. **View the Dashboard**: A new tab will automatically open in your web browser with the app. If not, navigate to the local URL shown in your terminal (usually `http://localhost:8501`).
